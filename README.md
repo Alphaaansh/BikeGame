@@ -17,10 +17,10 @@ A fun 3-lane bike racing game made with **Java Swing**. Control your bike to dod
 
 ## Controls
 
-| Key        | Action             |
-|---------------------------------|
-|  Left   | Move to left lane  |
-|  Right  | Move to right lane |
+ Key         Action             
+-------------------------------
+  Left     Move to left lane  
+  Right    Move to right lane
 
 ---
 ## Made By Ansh
